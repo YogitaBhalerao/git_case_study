@@ -1,1 +1,2 @@
-Feature 1 created for Application 
+Feature 1 created for Application
+The changes made in feature file for product release from release/1.0 branch   
